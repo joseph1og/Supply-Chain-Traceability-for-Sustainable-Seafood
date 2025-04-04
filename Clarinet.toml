@@ -10,6 +10,11 @@ path = 'contracts/catch-documentation.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.processing-verification]
+path = 'contracts/processing-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.vessel-registration]
 path = 'contracts/vessel-registration.clar'
 clarity_version = 2
